@@ -14,7 +14,7 @@ class App extends React.Component {
             React.createElement(
                 "p",
                 null,
-                "Hello, I am Dhvanesh Shah. Currently, I am pursuing my Master degree in Computer Science from San Diego State University. I love to listen songs and playing games in my leisure time.  "
+                "Hello, I am Dhvanesh Shah. Currently, I am pursuing my Master degree in Computer Science from San Diego State University. I like to learn new things about technologies and implement them. Besides what I do, I love to listen songs and playing games in my leisure time.  "
             ),
             React.createElement(
                 "button",
