@@ -1,0 +1,20 @@
+#contents{
+    align-items: center;
+    text-align: center;
+}
+img{
+    width: 150px;
+    height: 150px; 
+    border-radius: 5%;
+}   
+button{
+    background-color: yellowgreen;
+    border-radius: 5%;
+    border: steelblue 2px solid;
+}
+a{
+    color: black;
+}
+p{
+    font-family: sans-serif;
+}
