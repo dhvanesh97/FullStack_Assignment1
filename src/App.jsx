@@ -6,7 +6,7 @@ class App extends React.Component{
             <div>
                 <h1>Dhvanesh Hetalkumar Shah</h1>
                 <img src="./myself.jpg"></img>
-                <p>Hello, I am Dhvanesh Shah. Currently, I am pursuing my Master degree in Computer Science from San Diego State University. I love to listen songs and playing games in my leisure time.  </p>
+                <p>Hello, I am Dhvanesh Shah. Currently, I am pursuing my Master degree in Computer Science from San Diego State University. I like to learn new things about technologies and implement them. Besides what I do, I love to listen songs and playing games in my leisure time.  </p>
                 <button><a href="https://github.com/dhvanesh97?tab=repositories">VIEW MY GITHUB REPO</a></button>
             </div>
         );
